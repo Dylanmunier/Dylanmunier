@@ -32,7 +32,7 @@ Impact réel : Développer des solutions pragmatiques et durables.
 - Twitter: [@dylanmunier](https://twitter.com/dylanmunier/***)
 - LinkedIn: [dylanmunier](https://www.linkedin.com/in/dylanmunier/***)
 
-Bien sûr! Voici quelques idées de projets avec lesquelles vous pouvez commencer. Ces projets vont du niveau débutant au niveau avancé et peuvent vous aider à développer et à mettre en valeur vos compétences dans divers domaines :
+Voici quelques idées de projets avec lesquelles nous pouvez commencer. Ces projets vont du niveau débutant au niveau avancé et peuvent nous servir à développer et à mettre en valeur des compétences dans divers domaines :
 
 Niveau débutant
 Site web du portfolio personnel
@@ -82,13 +82,17 @@ Projet d’apprentissage automatique
 Créez un modèle d’apprentissage automatique pour résoudre un problème spécifique (par exemple, la classification d’images, l’analyse des sentiments).
 Créez une interface web pour interagir avec le modèle et visualiser les résultats.
 Utilisez Python, Flask ou Django pour le back-end, et une bibliothèque d’apprentissage automatique comme TensorFlow ou PyTorch.
+
 Idées bonus
 Planificateur de voyage
 Développez une application pour aider les utilisateurs à planifier leurs voyages, y compris la gestion des itinéraires, l’intégration des réservations et les recommandations de voyage.
 Utilisez une combinaison de technologies front-end et back-end.
+
 Suivi de la santé et de la condition physique
 Créez une application pour suivre vos entraînements, votre nutrition et vos progrès vers vos objectifs de remise en forme.
 Incluez des fonctionnalités telles que les plans d’entraînement, l’enregistrement des repas et les tableaux de progression.
+
+
 N’hésitez pas à choisir un projet qui correspond à vos intérêts et à votre niveau de compétence. Chaque projet peut être complété par des fonctionnalités supplémentaires et des améliorations au fur et à mesure de votre progression. Bon codage !
   
 <!---
