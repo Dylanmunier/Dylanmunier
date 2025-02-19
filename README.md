@@ -32,72 +32,43 @@ Impact réel : Développer des solutions pragmatiques et durables.
 - Twitter: [@dylanmunier](https://twitter.com/dylanmunier/***)
 - LinkedIn: [dylanmunier](https://www.linkedin.com/in/dylanmunier/***)
 
-Voici quelques idées de projets avec lesquelles nous pouvez commencer. Ces projets vont du niveau débutant au niveau avancé et peuvent nous servir à développer et à mettre en valeur des compétences dans divers domaines :
+💻 Projets
 
-# Niveau débutant
+Voici quelques idées de projets pour développer et mettre en valeur des compétences :
 
-/ Site web du portfolio personnel
-Créez un site Web pour présenter vos compétences, vos projets et vos expériences.
-Incluez des sections telles que À propos de moi, Projets, Blog et Contact.
-Utilisez HTML, CSS et JavaScript.
+🟢 Niveau débutant
 
-/ Application de liste de tâches
-Créez une application de liste de tâches simple où les utilisateurs peuvent ajouter, modifier et supprimer des tâches.
-Utilisez le stockage local pour enregistrer des tâches.
-Utilisez HTML, CSS et JavaScript.
+🌐 Website du portfolio personnel : Site Web pour présenter vos compétences et projets. (HTML, CSS, JavaScript)
 
-/Application de données
-Créez une application qui récupère les données d’une API et les affiche.
-Permettez aux utilisateurs de rechercher des informations météorologiques par ville.
-Utilisez HTML, CSS, JavaScript et une API météo comme OpenWeatherMap.
+📝 Application de liste de tâches : Ajouter, modifier et supprimer des tâches avec stockage local. (HTML, CSS, JavaScript)
 
-# Niveau intermédiaire
+🌦️ Application de données météo : Récupérer et afficher des données d'une API météo. (HTML, CSS, JavaScript, API OpenWeatherMap)
 
-/ Suivi du budget
-Développez une application de finance pour suivre les revenus et les dépenses.
-Incluez des fonctionnalités telles que l’ajout de transactions, la catégorisation des dépenses et l’affichage de rapports récapitulatifs.
-Utilisez un framework front-end comme React ou Vue.js et un back-end avec Node.js et Express.
+🟡 Niveau intermédiaire
 
-/ Application de recette
-Créez une application où les utilisateurs peuvent parcourir, rechercher et enregistrer des recettes.
-Intégrez une API de recette pour récupérer les données de recette.
-Utilisez React ou Angular pour le front-end et Firebase pour le back-end.
+💳 Suivi du budget : Suivi des revenus et dépenses avec catégorisation. (React/Vue.js, Node.js, Express)
 
-/ Chat Application
-Créez une application de chat en temps réel avec authentification de l’utilisateur.
-Incluez des fonctionnalités telles que la messagerie privée, les discussions de groupe et l’historique des messages.
-Utilisez des technologies telles que React, Node.js, Express, Socket.io.
+🍽️ Application de recette : Rechercher, sauvegarder et afficher des recettes via une API. (React/Angular, Firebase)
 
-# Niveau avancé
+💬 Application de chat : Messagerie en temps réel avec authentification utilisateur. (React, Node.js, Express, Socket.io)
 
-/ Plateforme de commerce électronique
-Développez une plateforme de commerce électronique complète avec des listes de produits, un panier d’achat, un paiement et une intégration des paiements.
-Mettre en œuvre l’authentification et l’autorisation des utilisateurs.
-Utilisez une pile moderne comme React, Node.js, Express et MongoDB.
+🔴 Niveau avancé
 
-/ Tableau de bord des médias sociaux
-Créez une application de tableau de bord pour gérer plusieurs comptes de médias sociaux.
-Incluez des fonctionnalités telles que la planification des publications, l’affichage des analyses et la gestion des abonnés.
-Utilisez React ou Vue.js pour le front-end et un back-end avec Node.js, Express et une base de données comme PostgreSQL.
+🛒 Plateforme e-commerce : Gestion des produits, panier et paiement en ligne. (React, Node.js, MongoDB)
 
-/ Projet d’apprentissage automatique
-Créez un modèle d’apprentissage automatique pour résoudre un problème spécifique (par exemple, la classification d’images, l’analyse des sentiments).
-Créez une interface web pour interagir avec le modèle et visualiser les résultats.
-Utilisez Python, Flask ou Django pour le back-end, et une bibliothèque d’apprentissage automatique comme TensorFlow ou PyTorch.
+📊 Tableau de bord des réseaux sociaux : Planification des posts et suivi des stats. (React/Vue.js, Node.js, PostgreSQL)
 
-# Idées bonus
+🤖 Projet d'apprentissage automatique : IA pour l'analyse des sentiments ou reconnaissance d'images. (Python, Flask/Django, TensorFlow/PyTorch)
 
-/ Planificateur de voyage
-Développez une application pour aider les utilisateurs à planifier leurs voyages, y compris la gestion des itinéraires, l’intégration des réservations et les recommandations de voyage.
-Utilisez une combinaison de technologies front-end et back-end.
+🌟 Idées bonus
 
+✈️ Planificateur de voyage : Itinéraires, réservations et recommandations.
 
-/ Suivi de la santé et de la condition physique
-Créez une application pour suivre vos entraînements, votre nutrition et vos progrès vers vos objectifs de remise en forme.
-Incluez des fonctionnalités telles que les plans d’entraînement, l’enregistrement des repas et les tableaux de progression.
+🏋️ Suivi santé & fitness : Enregistrement des entraînements et plans nutritionnels.
 
+📌 Choisissez un projet selon vos compétences et intérêts ! Chaque projet peut être amélioré progressivement.
 
-N’hésitez pas à choisir un projet qui correspond à vos intérêts et à votre niveau de compétence. Chaque projet peut être complété par des fonctionnalités supplémentaires et des améliorations au fur et à mesure de votre progression. Bon codage !
+Bon codage ! 🚀
   
 <!---
 Dylanmunier/Dylanmunier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
