@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fil d'actualité des Portfolios</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Fil d'actualité des Portfolios</h1>
+        <div class="filters">
+            <button data-category="all">Tous</button>
+            <button data-category="web">Web</button>
+            <button data-category="design">Design</button>
+            <button data-category="mobile">Mobile</button>
+        </div>
+        <div class="search-sort">
+            <input type="text" id="searchInput" placeholder="Rechercher...">
+            <select id="sortSelect">
+                <option value="name">Nom</option>
+                <option value="date">Date</option>
+            </select>
+        </div>
+    </header>
+    <main>
+        <div class="portfolio-feed"></div>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
